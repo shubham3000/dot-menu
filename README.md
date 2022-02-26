@@ -1,5 +1,5 @@
 # dot-menu
-Dot menu with icon hover effects
+Dots menu with icon hover effects
 
 
 Link:
